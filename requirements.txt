@@ -1,0 +1,15 @@
+ipykernel
+numpy
+pandas
+lxml
+html5lib
+beautifulsoup4
+matplotlib
+seaborn
+scikit-learn
+imblearn
+statsmodels
+flask
+streamlit
+plotly
+nbformat
